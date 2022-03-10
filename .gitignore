@@ -1,0 +1,6 @@
+/node_modules
+# JPEG
+*.jpg
+*.jpeg
+# Portable Network Graphics
+*.png
